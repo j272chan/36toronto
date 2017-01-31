@@ -1,0 +1,12 @@
+/*****This is the stylesheet for the website*****/
+
+/*****HOME PAGE*****/
+
+#homeBody {
+	filter: invert(100%);
+	-webkit-filter: invert(100%);
+}
+p {
+	font-weight: bold;
+	font-size: 200%;
+}

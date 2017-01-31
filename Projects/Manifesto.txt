@@ -1,0 +1,210 @@
+This is a test document for practicing typing. After this, I will watch a video 
+or read about how to write html and css more efficiently.
+
+My plan for today is to:
+	-Watch at least 2 videos
+	
+	-Become efficient at writing code
+		Practice typing, learn tips and tricks to typing html and others...
+		Learn not just typing, but efficient responsive design.
+		
+	-Learn to use bootstrap to create a stunning website.
+		Hopefully all tutorials are using bootstrap 3. I think the last one was. 
+		I have to learn all the differences between bootstrap 3 and bootstrap 2.3.2
+			This should include reading the two documents
+			So far I know that row-fluid can just be 'row' now because responsive
+				design is always enabled and must be manually disabled.
+			I have to learn more than just what I used at Veriday. Bootstrap 3 is 
+				closer to whatever the future holds than b2.3.2
+	
+	-My plan is to eventually create a multi-page live website that requires a backend
+		that way I can use Java services and webservices and an ORM (Object Relational Mapping)
+		to make SQL queries and changes to the database. This jump may be complicated but it is
+		the most applicable to the job and the most useful for resume
+		
+	I want to be the best frontend web developer that I know. When I meet someone better I want
+		to absorb their skill just by inspecting their website once. I want to be able to devour
+		their souls just using clinet-side operations. I want to be able to subtly prod at their
+		guts with my knowledge of the inner workings of their backend and google's console commands.
+		I will simultaneously rule their domain and their DOM. No amount of success, no challenge, no 
+		problem will be "out-of-scope" for me. They will bow their sorry asses down to me and kneel
+		whenever I say this.bow because my commands will mean everything to their bum life. I will
+		not stop until I have inspected every element. Enabled every previously-disabled button, and
+		injected every ounce of SQL possible, even the ones that they felt were safe. And when I am done,
+		when I am on my deathbed (the iron throne with built-in IOT -internet of things- capabilities), 
+		I will weep, for there will be no more worlds to conquer.
+		
+		
+Here I go...
+
+
+JRE Fast Typing Practice
+Fight Companion- Jan29
+
+Brendan Schaub and I know all of the damn results.
+I'm the only one??
+Jimmy Burke is here. Eddie Bravo, Bryan Schaub...
+This is the first time we have a recording and we will be enjoying it in the moment.
+But we can't really play it. We don't want to watch all this pre-game bullshit.
+Fast forwarding through "John Anik"
+So the first fight is Alex Caceres vs Jason Knight
+This is like kinda a sleeper of a fight.
+Right now they're showing the side by side comparisons. Tale of the tape.
+How come they stopped measuring legs?
+Joe Silva is the reason that Hey Mickey got on the broadcast.
+Dana White goes through all the walkout songs before the fight. He shot one of mine (Brendan's)
+	down the night before.
+The difference is Alex's strikes come at different angles, and they're creative. But Yair's has that deadly quality.
+Those are Jet Li kicks that he's doing
+He is an older guy. Before that he got outworked by Frankie Edgar. It was almost like
+	everything was tailor-made for Yair Rodriguez.
+I think the days of just coming out and throwing a leg kick every once in a while are done. People
+	should start doing a Sunday Tae Kwon Do class to try to emulate Yair.
+Raymond Daniels is a wild MOFO
+You gotta do both. Have a mixture
+We have to see Yair against a guy with a super low-kick fundamental game.
+Technique-wise on fundamentels Valtelini is on another level in terms of kickboxing.
+You could do wild sh*t in kickboxing because there's no threat of getting knocked down
+Eddie, I think the reason these kicks work is because people aren't training them. If
+	everybody was throwing them with their training partners, it wouldn't work
+If in an alternate dimension, if there was a rematch with BJ, pulling guard might be an option
+Watch Paul Sass. He shoots, they sprawl, then boom.
+BJ would never tap anybody off his back. He would always sweep them, take mount, take the back...
+He pulled [Nogueira] and he swept, passed and...
+Knight got a body-lock on Caceres - The guy is a specialist in the body triangle.
+"I really want to do a study on what kind of damage happpens when you elbow someone in the back of the head"
+<h1> This is the header </h1>
+On the chin, you can't finish it with a straight gable grip. You need a full RNC. If you are deep
+	under the chin, you can get away with it.
+When you take the body triangle and you extend the other foot to butterfly the leg, why?
+	The instep is locked and the butterfly is used to control the leg. If you lift it, it takes
+	away his mobility and it's another thing to deal with. It keeps the angle and on the good side for
+	the person on the back.
+There's this thing where ballerinas put their foot in to make their foot parallel to the shin-bone
+Jason Knight wants a scrap with the Korean Superboy- Doo Ho Choi. That would be pretty sweet
+Trump's president and we've got a white runningback that's killing it.
+
+That Germaine de Randamie is undefeated in Muay Thai. Holly's gonna strike with her.
+Holly loses this one- three in a row... How we gonna sell that?
+It's crazy how this sport just chews people out.
+Floyd vs McGregor is happening??
+
+
+I hated what the fight was about but I loved the fight. The dynamic between them was different
+	than every other fight.
+The only goal that he [McGregor] could have is find a backdoor hack.
+Tim did that whole show where he did a bunch of things and learned them quickly. Good luck doing
+	that with Jiu Jitsu. A guy who's been rolling for 10 years could get drunk, stay up all night,
+	show up drunk and still have his way with the person rolling for 4 months.
+What Floyd does is minimize any potential of getting hit. That's why you can't beat him unless there's
+	a crazy method that has not been found yet.
+And as it goes on, if McGregor becomes predictable in any way, Floyd will start to dominate.
+Have to move away from Floyd and be different every round. Do muay thai trips and make him think.
+It would be nice if they changed it so that they were boxing in smaller gloves because Conor is giving 
+	up so much, but Floyd is not in the business of throwing gimmes to anyone.
+
+I don't say anyone is the "next best thing" until we see them with <Cain_Velasquez>
+Man, Arlovski's only 47. He's running at him and throwing punches.
+"Who wants to be the guy to tell him to stop with the lightning bolts in the hair"
+Francis <Ngannou> reads the overhand right. He slipped it.
+It is so important that a referee knows how hard a guy hits. Nobody is complaining about this stoppage.
+Arlovski's prime was when he was in his 20's. Now you can see the wear-and-tear in his shoulders.
+<Fedor> vs <Mitrione> is coming up in 2 weeks
+The commission turned Fedor's win to No Contest vs Fabio Emaldonato
+They're bringing in all sorts of olympic-level athletes to train with <Ngannou>
+
+
+
+
+
+Bootstrap responsive layout video
+
+Move right into bootstrap. Here he goes over how to get bootstrap
+Use the CDN such that you put links in the head and scripts at the bottom of the body.
+This is because style sheets should load first and scripts (for speed) should go last.
+
+Start with a three column layout
+He does a div row and a div "darkBG" col=sn-6
+
+This spans halfway across the screen. Because it is using 6 of the 12 spans
+Responsive because it acts according to the device
+darkerBG and darkestBG classes are a dark grey colour
+
+What you can also do is with small, med, lg, xl
+When we make the browser smaller, use col-sm-6, col-xs-12 so that this goes all the way across.
+Container tag gives it a centered look and feel
+
+Navbar components on website-
+Just copy the whole thing into a header tag and wrap it in a container tag.
+This includes links, dropdowns and a search bar. I like it better at full-width. This can be 
+	done with default and not inside of a container
+Take out the navbar default class
+The navbar-inverse gives a slick, black look.
+Copy and delete is the easiest way.
+Bootstrap documentation may not be the cleares in examples. Look online
+Button groups and toolbars.
+I should read the entire documentation for bootstrap
+Button colours- primary is blue. Danger red. Warning yellow-orange. Success- green.
+Panel component is useful.
+
+<div class="panel"> uses the same colours as btns and they resize the same as fluid divs.
+
+I should look at how to reprogram keyboard to make < as ` and > as ~
+
+
+Carousel Slider Video
+https://www.youtube.com/watch?v=Mvxu-oJIt1A
+It is a slider with arrows on the side.
+To get startedm view the template
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
